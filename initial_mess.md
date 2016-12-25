@@ -9,5 +9,6 @@
 
     What this points to can be modified but not the value of this.
 
-    ```\*this = XY; // This is allowed <br />
+    ```\*this = XY; // This is allowed
+    
     this = &XY; // This is not allowed. Error: Expression is not assignable``` 
